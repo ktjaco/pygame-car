@@ -1,5 +1,5 @@
 # pygame-car
-Simple vehicle dodging game created with Python
+A simple vehicle dodging game created with Python
 
 ## Run
 ```python 
