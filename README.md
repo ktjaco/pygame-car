@@ -1,2 +1,7 @@
 # pygame-car
-Simple car dodging game created with Python
+Simple vehicle dodging game created with Python
+
+## Run
+```python 
+python main.py
+```
